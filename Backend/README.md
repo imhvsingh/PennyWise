@@ -1,7 +1,5 @@
 # Backend for PennyWise
 
-### Note : A previous version of this backend was written in JS by me in this repo : [JS Backend Repo](https://github.com/apurvdugar/PennyWise)
-
 A robust TypeScript-based backend service for the PennyWise expense tracking application. This service provides APIs for user authentication, expense management, and AI-powered financial insights.
 
 ## Features
